@@ -1,0 +1,22 @@
+Aqui estão as respostas para as perguntas:
+
+1. **(b)** Gerenciar endereçamento e roteamento de pacotes
+2. **(c)** ARP
+3. **(b)** 32 bits
+4. **(c)** Aumenta o número de endereços disponíveis
+5. **(c)** DNS
+6. **(b)** Controle de mensagens de erro e testes de rede
+7. **(b)** Um endereço com todos os bits definidos como 1
+8. **(c)** 255.255.255.0
+9. **(c)** Camada de Rede
+10. **(c)** DHCP
+11. **(b)** Conecta dispositivos dentro de uma área geograficamente limitada, como um prédio
+12. **(b)** Encaminhamento de quadros dentro de uma rede local
+13. **(a)** Gerenciamento e monitoramento de dispositivos de rede
+14. **(b)** Todos os dispositivos atuam como cliente e servidor
+15. **(b)** Um endereço na faixa 127.0.0.0
+16. **(b)** 10.0.0.1
+17. **(a)** ICMP
+18. **(c)** Garantir a entrega ordenada e confiável de pacotes
+19. **(b)** 192.168.0.255
+20. **(b)** Um dispositivo centralizado fornece serviços para outros
